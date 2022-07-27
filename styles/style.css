@@ -1,6 +1,7 @@
 body {
   padding: 0;
   text-align: center;
+  display: flex;
 }
 
 .game-intro {
@@ -10,7 +11,7 @@ body {
 
 .game-intro p {
   font-size: 18px;
-  font-family: "Verdana"
+  font-family: "Monaco"
 }
 
 .logo-img {
